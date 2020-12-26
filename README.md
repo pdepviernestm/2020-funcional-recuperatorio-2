@@ -1,8 +1,8 @@
-# Recuperatorio
+# Recuperatorio - 2
 
 ## Enunciado
 
-https://docs.google.com/document/d/1zPZyrYJNKl5fMXQZq6D8a-UGy6_C8lytyBYTu2szf3w/edit?usp=sharing
+https://docs.google.com/document/d/e/2PACX-1vTJMjEYy97usXVExC1eUUULKaDXAh79felGhVb5fE0gcDShVhPKmbqt8a6TFYvIIYTq0ZrQsHUAhT0c/pub
 
 ## Estudiante
 
